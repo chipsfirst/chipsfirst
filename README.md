@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @chipsfirst
-- 👀 I’m interested in python programming
-- 🌱 I’m currently learning web, system administration and games development
-- 📫 How to reach me ...
+- 👋 Привет, меня зовут Владимир. Я - инженер-программист и Аналитик данных. 
+- 👀 Работаю на Python (pandas, matplotlib, plotly), SQL (PostgreSQL), WEB (HTML, CSS). Также хорошо владею таблицами Excel (ВПР, сводные таблицы и прочее по мелочи) 
+- 🌱 Всегда готов изучать новые технологии и сферы. В данный момент погружаюсь в аналитику и статистику.
+- 📫 Также веду игру по ДнД, поэтому некоторые проекты связаны в том числе с этой деятельностью.
 
-<!---
-chipsfirst/chipsfirst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
