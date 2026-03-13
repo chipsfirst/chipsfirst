@@ -2,7 +2,7 @@
 
 **Инженер-программист и Аналитик данных**  
 
-Я превращаю данные в решения для бизнеса и проектов, создаю визуализации и аналитические модели. Также веду персональный блог и разрабатываю проекты, связанные с настольными играми.
+
 
 ---
 
@@ -52,7 +52,7 @@
 <p align="center">
   <a href="https://t.me/Vlakarrus"><img src="https://img.shields.io/badge/Telegram-@Vlakarrus-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://github.com/chipsfirst"><img src="https://img.shields.io/badge/GitHub-chipsfirst-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:ivan@mail.com"><img src="https://img.shields.io/badge/Email-ivan@mail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:vlakarrus@myandex.ru"><img src="https://img.shields.io/badge/Email-ivan@mail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
