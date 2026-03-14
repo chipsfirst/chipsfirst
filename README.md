@@ -52,13 +52,5 @@
 <p align="center">
   <a href="https://t.me/Vlakarrus"><img src="https://img.shields.io/badge/Telegram-@Vlakarrus-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://github.com/chipsfirst"><img src="https://img.shields.io/badge/GitHub-chipsfirst-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:vlakarrus@myandex.ru"><img src="https://img.shields.io/badge/Email-ivan@mail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-## 📈 GitHub статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chipsfirst&show_icons=true&theme=radical" />
+  <a href="mailto:vlakarrus@myandex.ru"><img src="https://img.shields.io/badge/Email-vlakarrus@yandex.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
