@@ -1,4 +1,4 @@
-# 👋 Привет, меня зовут Владимир Карташов
+# 👋 Карташов Владимир
 
 **Инженер-программист и Аналитик данных**  
 
@@ -24,6 +24,7 @@
 |-------------|------------------|
 | 2024–2026   | Стажировка Data Analyst / Python, SQL, визуализация данных |
 | 2022–2026   | Образование в области программирования и аналитики данных |
+| 2018-2026   | Обширный опыт в системном администрировании|
 
 ---
 
@@ -33,15 +34,12 @@
 
 ### [Text_base-RPG](https://github.com/chipsfirst/Text_base-RPG)  
 ![Python](https://img.shields.io/badge/Python-TextRPG-blue?style=for-the-badge)  
-Текстовая RPG на Python. Продемонстрированы навыки программирования и логики.
+Текстовая RPG на Python. Начал писать, но так и не дописал. 
 
-### [chipsfirst.github.io](https://chipsfirst.github.io)  
-![Website](https://img.shields.io/badge/Web-Blog-orange?style=for-the-badge)  
-Сайт-блог о настольных ролевых играх. Демонстрирует навыки веб-разработки и дизайна.
 
 ### [analys_afisha](https://github.com/chipsfirst/analys_afisha)  
 ![Data](https://img.shields.io/badge/Data-Analysis-red?style=for-the-badge)  
-Анализ данных сервиса Яндекс.Афиша в Jupyter Notebook. Примеры визуализации и анализа данных.
+Анализ данных сервиса Яндекс.Афиша в Jupyter Notebook. Примеры визуализации и анализа данных. Проект учебный.
 
 </div>
 
