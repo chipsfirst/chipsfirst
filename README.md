@@ -70,7 +70,7 @@ Git • GitHub • Docker • Linux • Jupyter Notebook
 
 ### [Text_base-RPG](https://github.com/chipsfirst/Text_base-RPG)  
 ![Python](https://img.shields.io/badge/Python-TextRPG-blue?style=for-the-badge)  
-Текстовая RPG на Python.
+Текстовая RPG на Python. В разработке.
 
 
 
