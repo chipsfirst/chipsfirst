@@ -11,11 +11,11 @@
 ## 🛠 Навыки
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python25-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL25-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel/PowerBI25-yellow?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML/CSS25-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Analytics25-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel/PowerBI-yellow?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML/CSS-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Analytics-lightgrey?style=for-the-badge" />
 </p>
 
 ---
