@@ -1,6 +1,8 @@
 # 👋 Карташов Владимир
 
-**Инженер-программист и Аналитик данных**  
+💼 Data Analyst | Python | SQL | Power BI | DataLens
+
+Инженерный бэкграунд • 8+ лет в IT • Аналитика данных • Автоматизация процессов
 
 
 
@@ -9,22 +11,51 @@
 ## 🛠 Навыки
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-95%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-80%25-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel/PowerBI-80%25-yellow?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML/CSS-70%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Analytics-85%25-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python25-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL25-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel/PowerBI25-yellow?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML/CSS25-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Analytics25-lightgrey?style=for-the-badge" />
 </p>
 
 ---
 
-## 💼 Опыт и образование
+## 🛠️ Технологический стек
+
+**Языки и базы данных**
+
+Python • SQL • PostgreSQL • MySQL
+
+**Аналитика**
+
+Pandas • NumPy • Matplotlib • Plotly • Scikit-learn
+
+**BI**
+
+Power BI • DataLens • Excel
+
+**Инструменты**
+
+Git • GitHub • Docker • Linux • Jupyter Notebook
+
+---
+
+## Сейчас изучаю
+
+- 🟢 PostgreSQL (оптимизация запросов, оконные функции, CTE)
+- 🟢 Power BI (DAX, Power Query, интерактивные дашборды)
+- 🟢 Продуктовую аналитику (Retention, DAU/WAU/MAU, Cohort Analysis)
+- 🟢 Статистику и A/B-тестирование
+- 🟢 ETL-процессы и организацию аналитических пайплайнов
+---
+
+## Опыт и образование
 
 | Период       | Опыт / Образование |
 |-------------|------------------|
-| 2024–2026   | Стажировка Data Analyst / Python, SQL, визуализация данных |
-| 2022–2026   | Образование в области программирования и аналитики данных |
-| 2018-2026   | Обширный опыт в системном администрировании|
+| 2024–2026   | Открытые и пет проекты Data Analyst / Python, SQL, визуализация данных |
+| 2025   | Яндекс.Практикум - Образование в области программирования и аналитики данных |
+| 2018-2026   | Работа и обучение системного администрирования и обработки данных|
 
 ---
 
@@ -32,14 +63,16 @@
 
 <div align="center">
 
-### [Text_base-RPG](https://github.com/chipsfirst/Text_base-RPG)  
-![Python](https://img.shields.io/badge/Python-TextRPG-blue?style=for-the-badge)  
-Текстовая RPG на Python. Начал писать, но так и не дописал. 
-
 
 ### [analys_afisha](https://github.com/chipsfirst/analys_afisha)  
 ![Data](https://img.shields.io/badge/Data-Analysis-red?style=for-the-badge)  
-Анализ данных сервиса Яндекс.Афиша в Jupyter Notebook. Примеры визуализации и анализа данных. Проект учебный.
+Исследовательский анализ открытых данных сервиса Яндекс.Афиша.
+
+### [Text_base-RPG](https://github.com/chipsfirst/Text_base-RPG)  
+![Python](https://img.shields.io/badge/Python-TextRPG-blue?style=for-the-badge)  
+Текстовая RPG на Python.
+
+
 
 </div>
 
