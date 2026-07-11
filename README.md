@@ -80,8 +80,13 @@ Git • GitHub • Docker • Linux • Jupyter Notebook
 
 ## 📫 Контакты
 
-<p align="center">
-  <a href="https://t.me/Vlakarrus"><img src="https://img.shields.io/badge/Telegram-@Vlakarrus-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://github.com/chipsfirst"><img src="https://img.shields.io/badge/GitHub-chipsfirst-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:vlakarrus@myandex.ru"><img src="https://img.shields.io/badge/Email-vlakarrus@yandex.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+## 🌐 Портфолио
+
+[![GitHub](https://img.shields.io/badge/GitHub-chipsfirst-181717?style=for-the-badge&logo=github)](https://github.com/chipsfirst)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/владимир-карташов-a25bb53b4)
+[![HH](https://img.shields.io/badge/HH.ru-Resume-E1011C?style=for-the-badge)](https://hh.ru/resume/5b483325ff0fc5f1250039ed1f6d5a4d66514c)
+
+## 📬 Связаться
+
+[![Telegram](https://img.shields.io/badge/Telegram-@Vlakarrus-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/Vlakarrus)
+[![Email](https://img.shields.io/badge/Email-vlakarrus@yandex.ru-D14836?style=for-the-badge&logo=gmail)](mailto:vlakarrus@yandex.ru)
