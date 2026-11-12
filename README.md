@@ -2,7 +2,7 @@
 
 💼 Data Analyst | Python | SQL | Power BI | DataLens
 
-Инженерный бэкграунд • 8+ лет в IT • Аналитика данных • Автоматизация процессов
+Инженерный опыт • 8+ лет в IT • Аналитика данных • Автоматизация процессов
 
 ---
 
@@ -65,6 +65,20 @@ Git • GitHub • Docker • Linux • Jupyter Notebook
 **[analys_afisha](https://github.com/chipsfirst/analys_afisha)** — исследовательский анализ заказов сервиса Яндекс.Афиша за июнь–октябрь 2024 года: очистка данных, сезонная динамика, регионы, операторы и площадки, проверка двух гипотез о мобильных и десктопных пользователях с оценкой размера эффекта.
 
 `Python` `pandas` `matplotlib` `scipy` `Jupyter`
+
+**[sql-retail-case](https://github.com/chipsfirst/sql-retail-case)** — SQL-кейс интернет-магазина на PostgreSQL: схема из четырёх таблиц, генератор данных и 12 запросов — выручка и рост, когортное удержание, RFM, правило Парето и отток.
+
+`PostgreSQL` `SQL` `CTE` `оконные функции`
+
+**[ab-test-analysis](https://github.com/chipsfirst/ab-test-analysis)** — анализ A/B-теста: дизайн и расчёт выборки, проверка SRM, z-тест и бутстрэп, guardrail и сегменты. Эффект +1.4 п.п. к конверсии при MDE 1 п.п.
+
+`Python` `SciPy` `pandas` `A/B` `статистика`
+
+**[retail-dashboard](https://github.com/chipsfirst/retail-dashboard)** — дашборд магазина на одной HTML-странице: KPI, выручка по месяцам, категории, новые и вернувшиеся покупатели, топ товаров.
+
+[Демо](https://chipsfirst.github.io/retail-dashboard/) · [Репозиторий](https://github.com/chipsfirst/retail-dashboard)
+
+`Plotly` `HTML` `pandas`
 
 ### Пет-проекты
 
