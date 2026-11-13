@@ -4,6 +4,10 @@
 
 [Telegram](https://t.me/Vlakarrus) · [Email](mailto:vlakarrus@yandex.ru) · [HH](https://hh.ru/resume/5b483325ff0fc5f1250039ed1f6d5a4d66514c) · [LinkedIn](https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D0%BA%D0%B0%D1%80%D1%82%D0%B0%D1%88%D0%BE%D0%B2-a25bb53b4) · [GitHub](https://github.com/chipsfirst)
 
+## Summary (EN)
+
+Data analyst with a focus on Python, SQL and statistics. Portfolio: a PostgreSQL case on 1M+ retail transactions, an A/B test with confidence intervals, an EDA of Yandex.Afisha orders, and a live Plotly dashboard. Open to junior/middle data analyst roles.
+
 ## Проекты
 
 **[sql-retail-case](https://github.com/chipsfirst/sql-retail-case)** — 12 запросов на PostgreSQL по реальным продажам Online Retail II (1 млн строк): когорты, RFM, Парето, отмены.
